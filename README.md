@@ -12,6 +12,8 @@
 
 ###### Heading level 6 (max)
 
-git add .
-gt commit -m "my message"
-git push
+
+# How to push
+git add . <br>
+git commit -m "my message" <br>
+git push <br>
