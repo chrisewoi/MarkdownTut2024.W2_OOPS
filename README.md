@@ -40,3 +40,8 @@ public class test
 	int test = 0;
 }
 ```
+
+![Really Good Image](ReallyGoodImage.jpg)
+![Really Good Gif](doggy.gif)
+![Another One](monkey-images.gif)
+
