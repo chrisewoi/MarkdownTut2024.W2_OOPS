@@ -34,7 +34,7 @@ git push <br>
 
 ## codeblock
 
-```
+``` csh
 public class test
 {
 	int test = 0;
@@ -45,3 +45,22 @@ public class test
 ![Really Good Gif](doggy.gif)
 ![Another One](monkey-images.gif)
 
+This text is **bold** <br>
+This text is __bold__ <br>
+This text is *italics* <br>
+This text is _italics_ <br>
+This text is ***bold italics*** <br>
+This text is ~~strikeout~~ <br>
+This text is <ins> underscore </ins>
+
+## Blockquote
+
+> test <br>
+> another
+>> nested
+
+<p> this </p>
+<p> that </p>
+
+[codeblock](#codeblock)<br>
+[google](http://google.com)
